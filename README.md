@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 ![Treenzzgod's GitHub stats](https://github-readme-stats.vercel.app/api?username=Treenzzgod&count_private=true&theme=midnight-purple)
 ![Treenzzgod's GitHub stats](https://github-readme-stats.vercel.app/api?username=Treenzzgod&show_icons=true&theme=midnight-purple) -->
 ![Treenzzgod's GitHub stats](https://github-readme-stats.vercel.app/api?username=Treenzzgod&show_icons=true&theme=midnight-purple)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Treenzzgod&theme=midnight-purple](https://github.com/Treenzzgod/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Treenzzgod](https://github.com/Treenzzgod/github-readme-stats)
