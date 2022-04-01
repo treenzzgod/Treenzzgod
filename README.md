@@ -31,6 +31,13 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Treenzzgod&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
+
+## about rank
+
+<hr>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Treenzzgod&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Treenzzgod&repo=github-readme-stats&theme=midnight-purple)](https://github.com/Treenzzgod/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Treenzzgod)](https://git.io/streak-stats)
