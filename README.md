@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 [![Treenzzgod's GitHub stats](https://github-readme-stats.vercel.app/api?username=Treenzzgod)](https://github.com/anuraghazra/github-readme-stats)
 ![Treenzzgod's GitHub stats](https://github-readme-stats.vercel.app/api?username=Treenzzgod&hide=contribs,prs)
 ![Treenzzgod's GitHub stats](https://github-readme-stats.vercel.app/api?username=Treenzzgod&count_private=true)
+
+![Treenzzgod's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=midnight-purple)
