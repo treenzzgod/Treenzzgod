@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
 
-
-
+# My Github Stats
+<hr>
 ![Treenzzgod's GitHub stats](https://github-readme-stats.vercel.app/api?username=Treenzzgod&show_icons=true&theme=midnight-purple)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Treenzzgod&langs_count=8&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
