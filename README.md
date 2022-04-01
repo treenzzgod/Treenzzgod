@@ -26,9 +26,4 @@ Here are some ideas to get you started:
 
 ![Treenzzgod's GitHub stats](https://github-readme-stats.vercel.app/api?username=Treenzzgod&show_icons=true&theme=midnight-purple)
 
-<a href="https://github.com/Treenzzgod/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Treenzzgod&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/Treenzzgod/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Treenzzgod&repo=convoychat" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Treenzzgod&langs_count=8)](https://github.com/Treenzzgod/github-readme-stats)
