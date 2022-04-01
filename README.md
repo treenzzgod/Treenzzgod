@@ -28,6 +28,9 @@ Here are some ideas to get you started:
 ![Treenzzgod's GitHub stats](https://github-readme-stats.vercel.app/api?username=Treenzzgod&show_icons=true&theme=midnight-purple)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Treenzzgod&langs_count=8&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Treenzzgod&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Treenzzgod&repo=github-readme-stats&theme=midnight-purple)](https://github.com/Treenzzgod/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Treenzzgod)](https://git.io/streak-stats)
